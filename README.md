@@ -36,3 +36,13 @@ The "Form" project is a user-friendly and visually appealing web application dev
     - A save button at the end of the form to submit the collected information.
 
 This project exemplifies a seamless integration of React's dynamic functionality with Tailwind CSS's utility-first design approach, creating an efficient and attractive form for users.
+
+**Screenshort**
+
+**Image-1:**
+<img width="1404" alt="image" src="https://github.com/user-attachments/assets/f7dc91b5-610d-4e0f-ba89-6aa955c36403">
+
+**Image2-:**
+<img width="1404" alt="image" src="https://github.com/user-attachments/assets/fd7b70c1-3275-4fe7-b092-0d039f6eb4b7">
+
+
